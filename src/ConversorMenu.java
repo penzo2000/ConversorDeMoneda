@@ -69,8 +69,6 @@ public class ConversorMenu {
                     valorConvertido = convierteADolar("COP", valorAConvertir);
                     System.out.println("El valor " + valorAConvertir + " [COP] corresponde al valor final de =>> " + valorConvertido + " [USD]");
                     break;
-                default:
-                    System.out.println("Opción no válida.");
             }
         } catch (InputMismatchException e) {
             System.out.println("Entrada inválida. Por favor, ingrese un número.");
