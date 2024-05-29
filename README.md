@@ -31,3 +31,9 @@
 
 <h2>Material de apoyo</h2>
 <p>Para este proyecto utilicé la teoría presentada en los cursos y artículos de Alura Latam, además utilicé la documentación de Java, y para ayudarme a comprender mejor algunas partes de la misma, realicé consultas a chatGPT, donde copié y pegué partes de la documentación que me resultaban difíciles de entender y le di cómo consigna que me lo explique en palabras menos técnicas y más amenas para alguien que se encuentra en proceso de aprendizaje como yo</p>
+
+<h2>Resultado del proyeto</h2>
+
+<p>A continuación muestro una captura de pantalla de cómo debería verse en consola el programa al interactuar con él cómo usuario:</p>
+
+![Captura de pantalla 2024-05-29 200540](https://github.com/penzo2000/ConversorDeMoneda/assets/118405340/abb38a25-58ee-4ba1-868d-37cd639b0c94)
