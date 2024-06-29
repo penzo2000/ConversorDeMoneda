@@ -1,5 +1,10 @@
 
 <h1>Conversor De Moneda</h1>
+
+<h3>Badge Conversor</h3>
+
+![Badge-Conversor](https://github.com/penzo2000/ConversorDeMoneda/assets/118405340/b5527c42-2922-4363-88bd-e87c4432508b)
+
 <h2>Presentación del proyecto</h2>
 <p>Es un desafío propuesto por AluraLatam, donde la consigna del desafío es la siguiente:</p>
 <p>En este emocionante desafío de programación, te invitamos a construir tu propio Conversor de Monedas. Aprenderás a realizar solicitudes a una API de tasas de cambio, a manipular datos JSON y, finalmente, a filtrar y mostrar las monedas de interés. ¡Prepárate para una experiencia práctica y emocionante en el desarrollo Java!</p>
